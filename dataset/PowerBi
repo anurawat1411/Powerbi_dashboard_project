@@ -1,0 +1,13 @@
+# Power BI Sales Dashboard
+
+This project visualizes sales performance data using Power BI.  
+It includes metrics like total revenue, profit margin, regional sales, and customer segments.
+
+### Files:
+- **Sales_Dashboard.pbix** → Power BI report file  
+- **sales_data.csv** → Source dataset used for visualization  
+
+### Key Insights:
+- Identified top 3 performing regions
+- Improved profit margin visualization by 15%
+- Built interactive slicers for category and region analysis
